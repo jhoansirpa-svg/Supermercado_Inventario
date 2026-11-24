@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="//wsl.localhost/Ubuntu/home/tequila/Supermercado_Inventario/lib/mysql-connector-j-26.10.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
